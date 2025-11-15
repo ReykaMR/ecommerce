@@ -36,12 +36,14 @@ E-Commerce ini adalah solusi belanja online. Website ini mendukung beberapa pros
 
 ## 📦 Instalasi
 1. Clone Repository
+
 ```bash
 git clone https://github.com/ReykaMR/ecommerce.git
 cd ecommerce
 ```
 
 2. Setup Database
+
 - Buat database baru
 ```sql
 CREATE DATABASE ecommerce_db;
@@ -49,6 +51,7 @@ CREATE DATABASE ecommerce_db;
 - Kemudian import file SQL yang disediakan (ecommerce_db.sql)
 
 3. Edit konfigurasi database
+
 Edit file berikut di application/config/database.php:
 ```php
 <?php
@@ -79,12 +82,14 @@ $db['default'] = array(
 ```
 
 4. Konfigurasi Base URL
+
 Edit application/config/config.php menjadi seperti berikut:
 ```php
 $config['base_url'] = 'http://localhost/ecommerce/';
 ```
 
 5. Jalankan Aplikasi
+
 Akses melalui browser:
 ```
 http://localhost/ecommerce/
