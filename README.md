@@ -1,5 +1,5 @@
 # E-Commerce
-E-Commerce ini adalah solusi belanja online yang powerful dan mudah digunakan, dirancang untuk memberikan pengalaman berbelanja yang optimal baik bagi pelanggan maupun administrator. Website ini mendukung semua proses e-commerce mulai dari pencarian produk, manajemen keranjang, checkout, hingga manajemen pesanan dan inventori.
+E-Commerce ini adalah solusi belanja online. Website ini mendukung beberapa proses e-commerce mulai dari pencarian produk, manajemen keranjang, checkout, hingga manajemen pesanan dan inventori.
 
 ## ✨ Fitur Utama
 - Untuk Pelanggan:
