@@ -1,6 +1,14 @@
 # E-Commerce
 E-Commerce ini adalah solusi belanja online. Website ini mendukung beberapa proses e-commerce mulai dari pencarian produk, manajemen keranjang, checkout, hingga manajemen pesanan dan inventori.
 
+## 📸 Tampilan Aplikasi
+<table align="center">
+  <tr>
+    <td><img src="screenshot-aplikasi/foto1.png" alt="Screenshot 1" width="100%" height="250"></td>
+	<td><img src="screenshot-aplikasi/foto2.png" alt="Screenshot 2" width="100%" height="250"></td>
+  </tr>
+</table>
+
 ## ✨ Fitur Utama
 - Untuk Pelanggan:
 	- ✅ Registrasi dan login user
